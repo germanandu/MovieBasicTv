@@ -1,8 +1,8 @@
-package com.example.moviebasetv
+package com.example.moviebasetv.ui.main
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.FragmentActivity
+import com.example.moviebasetv.R
 
 class MainActivity : FragmentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
